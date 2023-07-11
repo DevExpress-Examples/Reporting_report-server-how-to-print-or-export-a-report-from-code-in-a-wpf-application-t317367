@@ -1,4 +1,4 @@
-﻿Imports System.Windows.Controls
+Imports System.Windows.Controls
 
 Namespace ReportServerWPF.View
     ''' <summary>

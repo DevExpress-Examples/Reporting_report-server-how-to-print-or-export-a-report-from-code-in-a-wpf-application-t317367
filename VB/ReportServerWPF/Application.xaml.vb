@@ -1,4 +1,4 @@
-﻿' Developer Express Code Central Example:
+' Developer Express Code Central Example:
 ' Report Service - how to export or preview a report from code in a WPF application
 ' 
 ' 
