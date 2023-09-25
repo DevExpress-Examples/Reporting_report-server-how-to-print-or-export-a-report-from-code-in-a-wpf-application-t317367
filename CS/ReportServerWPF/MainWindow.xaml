@@ -1,9 +1,0 @@
-﻿<Window x:Class="ReportServerWPF.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:view="clr-namespace:ReportServerWPF.View"
-        Title="MainWindow" Height="116" Width="359">
-    <Grid Margin="0,0,2,0">
-        <view:MainView />
-    </Grid>
-</Window>
